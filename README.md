@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=wnsgud0895@gmail.com&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 ### Hi there 👋
