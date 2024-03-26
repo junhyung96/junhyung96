@@ -1,6 +1,6 @@
 ### 준형 Junhyung Bae👋
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=wnsgud0895@gmail.com&logoColor=white"/>
+<hr>
+<img src="https://img.shields.io/badge/wnsgud0895@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><img src="https://img.shields.io/badge/jnhynguu-E4405F?style=flat-square&logo=instagram&logoColor=white">
 
 <!--
 **junhyung96/junhyung96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
