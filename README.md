@@ -1,7 +1,7 @@
 ### 준형 Junhyung Bae👋
 <hr>
 <div style="display: inline-block; margin-right: 10px;">
-<img src="https://img.shields.io/badge/wnsgud0895@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/jnhynguu-E4405F?style=flat-square&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/wnsgud0895@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/jnhynguu-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
 <br/>
 
