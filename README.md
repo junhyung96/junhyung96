@@ -21,17 +21,25 @@
 <br/>
 
 #### 🛠 Skills 🛠
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)   
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white) 
 <br/>
 <br/>
 
 #### 🎨 BOJ profile 🎨
-<br/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgud0895)](https://solved.ac/wnsgud0895/)
 <br/>
 <br/>
 
 #### 👾 GitHub 👾
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhyung96)](https://github.com/junhyung96/github-readme-stats)
 <br/>
 <br/>
